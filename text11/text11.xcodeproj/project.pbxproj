@@ -99,13 +99,13 @@
 		E9D028111B7B2B810038EAAB /* 计算器 iOS 版本 */ = {
 			isa = PBXGroup;
 			children = (
-				E9D028121B7B2B810038EAAB /* AppDelegate.swift */,
-				E9D028141B7B2B810038EAAB /* ViewController.swift */,
 				E9D028401B7B2CA80038EAAB /* 计算器.swift */,
-				E9D028161B7B2B810038EAAB /* Main.storyboard */,
+				E9D028121B7B2B810038EAAB /* AppDelegate.swift */,
 				E9D028191B7B2B810038EAAB /* Assets.xcassets */,
-				E9D0281B1B7B2B810038EAAB /* LaunchScreen.storyboard */,
 				E9D0281E1B7B2B810038EAAB /* Info.plist */,
+				E9D0281B1B7B2B810038EAAB /* LaunchScreen.storyboard */,
+				E9D028161B7B2B810038EAAB /* Main.storyboard */,
+				E9D028141B7B2B810038EAAB /* ViewController.swift */,
 			);
 			path = "计算器 iOS 版本";
 			sourceTree = "<group>";
@@ -209,7 +209,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E9D0280A1B7B2B810038EAAB /* Build configuration list for PBXProject "计算器 iOS 版本" */;
+			buildConfigurationList = E9D0280A1B7B2B810038EAAB /* Build configuration list for PBXProject "text11" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -472,7 +472,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E9D0280A1B7B2B810038EAAB /* Build configuration list for PBXProject "计算器 iOS 版本" */ = {
+		E9D0280A1B7B2B810038EAAB /* Build configuration list for PBXProject "text11" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E9D028351B7B2B810038EAAB /* Debug */,
@@ -488,6 +488,7 @@
 				E9D028391B7B2B810038EAAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E9D0283A1B7B2B810038EAAB /* Build configuration list for PBXNativeTarget "计算器 iOS 版本Tests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +497,7 @@
 				E9D0283C1B7B2B810038EAAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E9D0283D1B7B2B810038EAAB /* Build configuration list for PBXNativeTarget "计算器 iOS 版本UITests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +506,7 @@
 				E9D0283F1B7B2B810038EAAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
